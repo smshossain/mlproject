@@ -1,1 +1,1 @@
-conda activate safa1/
+conda activate "E:\Safayet Workspace\Data science Project\mlproject\safa1"
